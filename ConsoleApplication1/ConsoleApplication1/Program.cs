@@ -13,8 +13,6 @@ namespace ConsoleApplication1
             Console.WriteLine("Hello Daniel!");
             // What is this line doing here??
             Console.ReadLine();
-
-            Console.WriteLine("This is Branch for Hon Kuan");
         }
     }
 }
